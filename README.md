@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyccc95&show_icons=true)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cyccc95)](https://solved.ac/cyccc95)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyccc95&layout=compact)
